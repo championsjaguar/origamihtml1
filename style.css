@@ -1,0 +1,28 @@
+.item{
+display: flex;
+flex-wrap:wrap;
+margin: 10px;
+}
+.grid{
+display: flex;
+flex-wrap:wrap;
+
+background-color: rgb(211, 148, 13);
+
+
+}
+
+
+.all{
+ background-color:rgb(211, 148, 13) ;
+
+}
+
+.text{
+font-size: large;
+text-decoration: cadetblue;
+    text-align: center;
+    
+    background-color: black;
+    color: white;
+}
